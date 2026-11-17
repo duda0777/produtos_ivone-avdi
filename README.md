@@ -1,2 +1,1 @@
-# produtos_ivone-avdi
-site oficila dos produtos Ivone
+# produtos_ivone_AVDI
